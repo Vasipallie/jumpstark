@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cwowln5pko0dm"
+path="res://.godot/imported/Horror House - Mantra (M.I.S.T. Records).mp3-a63b448d2450470e974ef8b2b0976421.mp3str"
+
+[deps]
+
+source_file="res://Horror House - Mantra (M.I.S.T. Records).mp3"
+dest_files=["res://.godot/imported/Horror House - Mantra (M.I.S.T. Records).mp3-a63b448d2450470e974ef8b2b0976421.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
